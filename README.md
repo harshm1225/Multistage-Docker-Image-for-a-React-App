@@ -1,10 +1,5 @@
 # Multistage Docker Image for a React-App
 
-A brief description of what this project does
-
-## Introduction:
-This documentation outlines the usage and purpose of the Dockerfile Multistage project.
-
 ## Project Overview:
 The Dockerfile Multistage project aims to streamline the containerization process by leveraging Docker's multistage build functionality. This approach enables the creation of lightweight and efficient Docker images by incorporating multiple stages within a single Dockerfile.
 
