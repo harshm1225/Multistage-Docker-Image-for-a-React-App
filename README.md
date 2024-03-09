@@ -1,5 +1,5 @@
 
-# Docker Advanced Project
+# Multistage Docker Image for a React-App
 
 A brief description of what this project does and who it's for
 
