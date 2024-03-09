@@ -9,6 +9,9 @@ This documentation outlines the usage and purpose of the Dockerfile Multistage p
 ## Project Overview:
 The Dockerfile Multistage project aims to streamline the containerization process by leveraging Docker's multistage build functionality. This approach enables the creation of lightweight and efficient Docker images by incorporating multiple stages within a single Dockerfile.
 
+## Software Requirements
+Ensure Docker is installed on your system. Download and install Docker from the official website: [Docker Engine](https://docs.docker.com/engine/)
+
 ## Usage
 
 ### 1. Clone the Repository:
