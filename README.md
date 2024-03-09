@@ -1,7 +1,6 @@
-
 # Multistage Docker Image for a React-App
 
-A brief description of what this project does and who it's for
+A brief description of what this project does
 
 ## Introduction:
 This documentation outlines the usage and purpose of the Dockerfile Multistage project.
